@@ -1,3 +1,4 @@
+
 # Skinstric — AI Skin Analysis
 
 Skinstric is a responsive React application that uses AI-powered image analysis to generate demographic predictions from a user's uploaded photo.
@@ -34,6 +35,12 @@ Skinstric is a responsive React application that uses AI-powered image analysis 
 ## Deployment
 
 Deployed using Vercel.
+
+<img width="1400" height="646" alt="Screenshot 2026-11-16 at 6 38 13 AM" src="https://github.com/user-attachments/assets/2142414d-516f-412d-9d78-1bcbc4f53cca" />
+
+
+<img width="1390" height="635" alt="Screenshot 2026-11-16 at 6 38 56 AM" src="https://github.com/user-attachments/assets/37e70978-3eda-422f-a3b4-0d2df9a532df" />
+
 
 
 
