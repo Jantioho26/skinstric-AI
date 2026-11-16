@@ -37,7 +37,4 @@ Deployed using Vercel.
 
 
 
-<img width="1389" height="640" alt="Screenshot 2026-11-15 at 6 38 07 PM" src="https://github.com/user-attachments/assets/a1ac35d8-2f75-4e3c-8a0a-a99b144b89ff" />
-
-<img width="1384" height="600" alt="Screenshot 2026-11-15 at 6 38 40 PM" src="https://github.com/user-attachments/assets/3e4cd195-b01d-4dff-a9a1-c70363853aea" />
 
