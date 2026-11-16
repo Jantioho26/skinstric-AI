@@ -26,20 +26,10 @@ Skinstric is a responsive React application that uses AI-powered image analysis 
 
 ## How to Run Locally
 
-1. Clone the repository and open the project folder.
-2. Install dependencies:
+- git clone https://github.com/Jantioho26/skinstric-AI.git
+- npm install
+- open in local server 
 
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-
-   ```bash
-   npm run dev
-   ```
-
-4. Open the local URL displayed in your terminal (typically `http://localhost:5173`).
 
 ## Deployment
 
